@@ -1,7 +1,7 @@
 ﻿<event_sessions xmlns="http://schemas.microsoft.com/sqlserver/2008/07/extendedeventsconfig">
    <event_session name="Blocked Process Report" maxMemory="8" eventRetentionMode="allowSingleEventLoss" trackCausality="false" dispatchLatency="30" maxEventSize="0" memoryPartitionMode="none">
     <templateCategory>
-      <!-- _locID_text="templateCategory" _locComment = "" -->System Monitoring</templateCategory>
+      <!-- _locID_text="templateCategory" _locComment = "" -->System Monitoring</templateCategory>   
     <templateName>
       <!-- _locID_text = "templateName" _locComment = "" -->Blocked Process Report</templateName>
     <templateDescription>
